@@ -3,7 +3,6 @@
 #https://edu.bid/
 #群内有提供节点
 #Qx
-[filter_local]
 host-suffix,music.163.com
 host-suffix,music.126.net
 user-agent,NeteaseMusic*
