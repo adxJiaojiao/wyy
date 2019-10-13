@@ -3,17 +3,17 @@
 #https://edu.bid/
 #群内有提供节点
 #Qx
-host-suffix, music.163.com
-host-suffix, music.126.net
-user-agent, NeteaseMusic*
-user-agent, NeteaseMusic**
-user-agent, 网易云音乐*
-user-agent, 网易云音乐**
-user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
-user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**
-ip-cidr, 59.111.181.0/24
-ip-cidr, 115.236.118.0/24
-ip-cidr, 223.252.199.0/24
-host-keyword, netease
-user-agent, wyy.edu.bid, direct
-final, direct
+host-suffix,music.163.com
+host-suffix,music.126.net
+user-agent,NeteaseMusic*
+user-agent,NeteaseMusic**
+user-agent,网易云音乐*
+user-agent,网易云音乐**
+user-agent,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+user-agent,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**
+ip-cidr,59.111.181.0/24
+ip-cidr,115.236.118.0/24
+ip-cidr,223.252.199.0/24
+host-keyword,netease
+user-agent,wyy.edu.bid,direct
+final,direct
