@@ -16,4 +16,4 @@ ip-cidr, 115.236.118.0/24, proxy
 ip-cidr, 223.252.199.0/24, proxy
 host-keyword, netease, proxy
 user-agent,wyy.edu.bid, direct
-final,direct
+
