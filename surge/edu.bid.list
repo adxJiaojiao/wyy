@@ -1,6 +1,10 @@
-#网易云
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,126.net
+#网易云解锁
+#支持绝大部分搭建的UnblockNeteaseMusic
+#https://edu.bid/
+#群内有提供节点
+#Surge
+DOMAIN-SUFFIX,music.163.com
+DOMAIN-SUFFIX,music.126.net
 USER-AGENT,netease
 USER-AGENT,NeteaseMusic*
 USER-AGENT,NeteaseMusic**
@@ -11,4 +15,4 @@ USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**
 IP-CIDR,59.111.181.0/24
 IP-CIDR,115.236.118.0/24
 IP-CIDR,223.252.199.0/24
-DOMAIN-SUFFIX,wyy.edu.bid,direct
+DOMAIN-SUFFIX,wyy.edu.bid,DIRECT
