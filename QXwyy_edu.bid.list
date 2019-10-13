@@ -3,17 +3,17 @@
 #https://edu.bid/
 #群内有提供节点
 #Qx
-host-suffix, music.163.com, 网易云解锁
-host-suffix, music.126.net, 网易云解锁
-user-agent, NeteaseMusic*, 网易云解锁
-user-agent, NeteaseMusic**, 网易云解锁
-user-agent, 网易云音乐*, 网易云解锁
-user-agent, 网易云音乐**, 网易云解锁
-user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, 网易云解锁
-user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**, 网易云解锁
-ip-cidr, 59.111.181.0/24, 网易云解锁
-ip-cidr, 115.236.118.0/24, 网易云解锁
-ip-cidr, 223.252.199.0/24, 网易云解锁
-host-keyword, netease, 网易云解锁
+host-suffix, music.163.com, proxy
+host-suffix, music.126.net, proxy
+user-agent, NeteaseMusic*, proxy
+user-agent, NeteaseMusic**, proxy
+user-agent, 网易云音乐*, proxy
+user-agent, 网易云音乐**, proxy
+user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, proxy
+user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**, proxy
+ip-cidr, 59.111.181.0/24, proxy
+ip-cidr, 115.236.118.0/24, proxy
+ip-cidr, 223.252.199.0/24, proxy
+host-keyword, netease, proxy
 user-agent,wyy.edu.bid, direct
 final,direct
