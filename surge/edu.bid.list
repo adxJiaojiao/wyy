@@ -1,7 +1,7 @@
 #网易云
-DOMAIN-SUFFIX,music.163.com
-DOMAIN-SUFFIX,music.126.net
-DOMAIN-KEYWORD,netease
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,126.net
+USER-AGENT,netease
 USER-AGENT,NeteaseMusic*
 USER-AGENT,NeteaseMusic**
 USER-AGENT,网易云音乐*
