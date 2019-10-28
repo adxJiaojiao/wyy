@@ -62,7 +62,7 @@ if(url.indexOf(path2)!=-1){
 
             "credits" : 10,
 
-            "end_date" : "2029-11-03T17:27:38.000Z",
+            "end_date" : "2099-11-03T17:27:38.000Z",
 
             "product_type" : "subscription",
 
